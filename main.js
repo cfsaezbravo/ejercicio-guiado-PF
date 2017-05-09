@@ -15,3 +15,30 @@ function intersectionSet2(l1, l2) {
 		return l2.indexOf(n) !== -1
 	});
 };
+
+var productos = [
+{
+	nombre: 'pijama',
+	tipo: 'ropa'
+},
+ {
+ 	nombre: 'nevera',
+ 	tipo: 'electrodoméstico'
+ },
+  {
+  	nombre: 'asus',
+  	tipo: 'computador'
+ },
+  {
+  	nombre: 'macbook',
+  	tipo: 'computador'
+ },
+  {
+  	nombre: 'pijama',
+  	tipo: 'ropa'
+ },
+  {
+  	nombre: 'toshiba',
+  	tipo: 'computador'
+  }
+];
